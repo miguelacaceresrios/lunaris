@@ -1,4 +1,2 @@
 # password_gestor
-
-
-gestor de contraseñas funcional y simple en el cual puedes guardar contraseñas no es un proyecto para demostrar habilidad simplemente es funcional 
+gestor de contraseña usado por gente cercana y por clientes q solicitaron la app 
